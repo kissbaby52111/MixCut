@@ -1,0 +1,271 @@
+{
+  "version": "visible-product-3-2-v3",
+  "basis": "curated_style_candidates_not_official_categories",
+  "review_status": "awaiting_user_preview",
+  "note": "用户标准：可以浓郁，只要仍可认出产品图；每条随机3种氛围+2种动感。40/18均为上游元数据标为非VIP的候选；客户端资源权限以实际显示为准。",
+  "groups": {
+    "氛围": [
+      "丁达尔光线",
+      "仙尘闪闪",
+      "光斑虚化",
+      "光斑飘落",
+      "光晕",
+      "光晕_II",
+      "初雪_I",
+      "发光",
+      "复古发光",
+      "少女星闪",
+      "彩虹光",
+      "彩虹光_II",
+      "日落灯",
+      "星光",
+      "星光_II",
+      "星光闪耀",
+      "星光闪闪",
+      "星夜",
+      "星星灯",
+      "星星闪烁",
+      "星河",
+      "星河_II",
+      "星空",
+      "星辰",
+      "星辰_I",
+      "星雨",
+      "晴天光线",
+      "月光闪闪",
+      "梦幻雪花",
+      "春日樱花",
+      "樱花朵朵",
+      "温柔细闪",
+      "萤光",
+      "萤光飞舞",
+      "萤火",
+      "落樱",
+      "花瓣飘落",
+      "金粉撒落",
+      "飘落闪粉",
+      "流星雨"
+    ],
+    "动感": [
+      "轻微抖动",
+      "轻微放大",
+      "左右摇晃",
+      "回弹摇摆",
+      "渐渐放大",
+      "变焦推镜",
+      "镜头变焦",
+      "摇摆",
+      "摇摆_II",
+      "抖动",
+      "震动",
+      "放映机抖动",
+      "胶片抖动",
+      "动感蓝带",
+      "扫描光条",
+      "蓝光扫描",
+      "金粉旋转",
+      "星移"
+    ]
+  },
+  "parameter_percent": {
+    "丁达尔光线": {
+      "effects_adjust_speed": 20
+    },
+    "仙尘闪闪": {
+      "effects_adjust_speed": 20
+    },
+    "光斑虚化": {
+      "effects_adjust_luminance": 12,
+      "effects_adjust_intensity": 18
+    },
+    "光斑飘落": {
+      "effects_adjust_speed": 20
+    },
+    "光晕": {
+      "effects_adjust_speed": 20
+    },
+    "光晕_II": {
+      "effects_adjust_speed": 20
+    },
+    "初雪_I": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_filter": 0,
+      "effects_adjust_luminance": 12
+    },
+    "发光": {
+      "effects_adjust_intensity": 18,
+      "effects_adjust_filter": 0
+    },
+    "复古发光": {
+      "effects_adjust_intensity": 18,
+      "effects_adjust_filter": 0
+    },
+    "少女星闪": {
+      "effects_adjust_speed": 20
+    },
+    "彩虹光": {
+      "effects_adjust_speed": 20
+    },
+    "彩虹光_II": {
+      "effects_adjust_speed": 20
+    },
+    "日落灯": {},
+    "星光": {
+      "effects_adjust_speed": 20
+    },
+    "星光_II": {
+      "effects_adjust_speed": 20
+    },
+    "星光闪耀": {
+      "effects_adjust_speed": 20
+    },
+    "星光闪闪": {
+      "effects_adjust_speed": 20
+    },
+    "星夜": {
+      "effects_adjust_speed": 20
+    },
+    "星星灯": {
+      "effects_adjust_speed": 20
+    },
+    "星星闪烁": {
+      "effects_adjust_speed": 20
+    },
+    "星河": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_intensity": 18
+    },
+    "星河_II": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_filter": 0
+    },
+    "星空": {
+      "effects_adjust_speed": 20
+    },
+    "星辰": {
+      "effects_adjust_speed": 20
+    },
+    "星辰_I": {
+      "effects_adjust_number": 8,
+      "effects_adjust_filter": 0
+    },
+    "星雨": {
+      "effects_adjust_speed": 20
+    },
+    "晴天光线": {
+      "effects_adjust_speed": 20
+    },
+    "月光闪闪": {
+      "effects_adjust_number": 8,
+      "effects_adjust_filter": 0
+    },
+    "梦幻雪花": {
+      "effects_adjust_speed": 20
+    },
+    "春日樱花": {
+      "effects_adjust_speed": 20
+    },
+    "樱花朵朵": {
+      "effects_adjust_speed": 20
+    },
+    "温柔细闪": {
+      "effects_adjust_speed": 20
+    },
+    "萤光": {
+      "effects_adjust_speed": 20
+    },
+    "萤光飞舞": {
+      "effects_adjust_speed": 20
+    },
+    "萤火": {
+      "effects_adjust_speed": 20
+    },
+    "落樱": {
+      "effects_adjust_speed": 20
+    },
+    "花瓣飘落": {
+      "effects_adjust_speed": 20
+    },
+    "金粉撒落": {
+      "effects_adjust_speed": 20
+    },
+    "飘落闪粉": {
+      "effects_adjust_speed": 20
+    },
+    "流星雨": {},
+    "轻微抖动": {
+      "effects_adjust_range": 2,
+      "effects_adjust_speed": 20
+    },
+    "轻微放大": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "左右摇晃": {
+      "effects_adjust_intensity": 2,
+      "effects_adjust_distortion": 0,
+      "effects_adjust_speed": 20
+    },
+    "回弹摇摆": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_size": 2,
+      "effects_adjust_intensity": 0.0
+    },
+    "渐渐放大": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "变焦推镜": {
+      "effects_adjust_intensity": 2,
+      "effects_adjust_speed": 20
+    },
+    "镜头变焦": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "摇摆": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "摇摆_II": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "抖动": {
+      "effects_adjust_speed": 20
+    },
+    "震动": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_intensity": 2
+    },
+    "放映机抖动": {
+      "effects_adjust_range": 2
+    },
+    "胶片抖动": {
+      "effects_adjust_filter": 0,
+      "effects_adjust_speed": 20,
+      "effects_adjust_intensity": 2,
+      "effects_adjust_noise": 0
+    },
+    "动感蓝带": {
+      "effects_adjust_speed": 20
+    },
+    "扫描光条": {
+      "effects_adjust_speed": 20
+    },
+    "蓝光扫描": {
+      "effects_adjust_luminance": 12,
+      "effects_adjust_blur": 0,
+      "effects_adjust_intensity": 2,
+      "effects_adjust_speed": 20,
+      "effects_adjust_range": 2
+    },
+    "金粉旋转": {
+      "effects_adjust_speed": 20,
+      "effects_adjust_filter": 0
+    },
+    "星移": {
+      "effects_adjust_speed": 20
+    }
+  }
+}

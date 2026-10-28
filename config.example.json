@@ -1,0 +1,60 @@
+{
+  "workflow": "folder_mix",
+  "product": {"name": "示例商品", "keyword": "示例商品"},
+  "workspace": "workspace/示例商品",
+  "collection": {"limit": 12, "wait_seconds": 90},
+  "analysis": {
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "model": "qwen3-vl-plus",
+    "api_key_env": "MIXCUT_API_KEY",
+    "frames_per_clip": 4,
+    "scene_threshold": 0.32,
+    "min_clip_seconds": 2.0,
+    "max_clip_seconds": 12.0,
+    "confidence_threshold": 0.78,
+    "timeout_seconds": 120,
+    "transcription": {"base_url": "", "model": "whisper-1", "api_key_env": "MIXCUT_ASR_KEY"}
+  },
+  "mix": {
+    "count": 10,
+    "structure": ["hooks", "selling_points", "proof", "conversion"],
+    "optional_roles": [],
+    "max_source_uses_per_video": 2,
+    "random_seed": 20261026
+  },
+  "render": {
+    "width": 720,
+    "height": 1280,
+    "fps": 25,
+    "crf": 23,
+    "preset": "veryfast",
+    "product_image": "",
+    "tail_seconds": 300.0,
+    "music": "",
+    "music_volume": 0.18,
+    "original_audio_volume": 1.0,
+    "music_scope": "tail",
+    "meteor": {"enabled": false, "scope": "tail", "intensity": 0.55, "seed": 101},
+    "effect_video": "",
+    "packaging_version": "tail-only-v1",
+    "output_mode": "jianying",
+    "corner_overlay": {"enabled": false, "folder": "", "width_percent": 18, "max_height_percent": 15},
+    "jianying": {
+      "selection_mode": "auto",
+      "music_source": "local_index",
+      "local_music_index": "",
+      "cloud_music": {},
+      "effect_enabled": true,
+      "effect_key": "流星雨",
+      "effect_profile": "gentle_3_2",
+      "effect_categories": ["氛围", "动感"],
+      "include_vip": false,
+      "effect_count": 5,
+      "effect_strength": 25,
+      "face_cover_enabled": false,
+      "draft_root": "",
+      "archive_old_drafts": false,
+      "keep_single_drafts": true
+    }
+  }
+}

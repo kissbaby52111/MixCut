@@ -1,0 +1,64 @@
+{
+  "music": {
+    "repository": "https://github.com/isYangs/jianying-editor-skill",
+    "commit": "b7225641d39a9cd354ec265e2f6101b009fa1b44",
+    "source": "data/cloud_music_library.csv",
+    "source_sha256": "f82c0fad16ef75c7daa64c4476d487682d294a46fd2a89573c2189d4d7057ce9",
+    "entries": 616,
+    "stored_fields": [
+      "id",
+      "name",
+      "seconds",
+      "category"
+    ],
+    "media_downloaded": false
+  },
+  "effects": {
+    "source": "vendor\\pyJianYingDraft\\pyJianYingDraft\\metadata\\video_scene_effect.py",
+    "entries": 1097
+  },
+  "cloud_serialization_reference": {
+    "repository": "https://github.com/aoguai/pyJianYingDraft",
+    "commit": "69cee12ae3f7442416df16acdf368ae574764811",
+    "source": "pyJianYingDraft/cloud_materials.py",
+    "license": "Apache-2.0"
+  },
+  "effect_style_groups": {
+    "source": "assets/jianying/effect_groups.json",
+    "basis": "curated_style_subset_not_official_categories",
+    "complete_official_categories": false,
+    "groups": {
+      "氛围": 27,
+      "动感": 20
+    }
+  },
+  "visible_product_effect_groups": {
+    "source": "assets/jianying/gentle_effect_groups.json",
+    "version": "visible-product-3-2-v3",
+    "basis": "curated_style_candidates_not_official_categories",
+    "complete_official_categories": false,
+    "groups": {"氛围": 40, "动感": 18},
+    "selection": {"氛围": 3, "动感": 2},
+    "native_preview": "examples/gentle_effect_review/review.json",
+    "approval": "pending_user_preview"
+  },
+  "face_cover": {
+    "source": "assets/jianying/face_cover.json",
+    "name": "拽酷墨镜",
+    "resource_id": "7536096426359770392",
+    "format": "Local JianYing 11.1.0.14287 material and segment from an isolated MixCut test draft",
+    "sanitization": "No account data or user media retained; cache paths removed and identities replaced with placeholders",
+    "client_commercial_label": "不可商用",
+    "default_enabled": false
+  },
+  "compound_wrapper": {
+    "source": "assets/jianying/compound_wrapper.json",
+    "format": "Local JianYing 11.1.0.14287 empty wrapper defaults",
+    "sanitization": "No user media, file paths or nested draft content retained; dynamic identities replaced with placeholders",
+    "reference_repositories": [
+      "https://github.com/GdLinkLock/jianying-headless",
+      "https://github.com/duoec/duo-video"
+    ],
+    "implementation": "Independent serializer; no upstream implementation copied"
+  }
+}

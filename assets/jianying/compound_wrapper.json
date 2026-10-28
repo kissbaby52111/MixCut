@@ -1,0 +1,332 @@
+{
+  "schema": "jianying-11-compound-wrapper-v1",
+  "source": "Sanitized local JianYing 11.1.0 defaults; contains no user media or nested content",
+  "segment": {
+    "caption_info": null,
+    "cartoon": false,
+    "clip": {
+      "alpha": 1.0,
+      "flip": {
+        "horizontal": false,
+        "vertical": false
+      },
+      "rotation": 0.0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "transform": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    "color_correct_alg_result": "",
+    "common_keyframes": [],
+    "desc": "",
+    "digital_human_template_group_id": "",
+    "enable_adjust": true,
+    "enable_adjust_mask": false,
+    "enable_color_adjust_pro": false,
+    "enable_color_correct_adjust": false,
+    "enable_color_curves": true,
+    "enable_color_match_adjust": false,
+    "enable_color_wheels": true,
+    "enable_hsl": false,
+    "enable_hsl_curves": true,
+    "enable_lut": true,
+    "enable_mask_shadow": false,
+    "enable_mask_stroke": false,
+    "enable_smart_color_adjust": false,
+    "enable_video_mask": true,
+    "extra_material_refs": [
+      "$draft",
+      "$speeds_0",
+      "$placeholder_infos_0",
+      "$canvases_0",
+      "$sound_channel_mappings_0",
+      "$material_colors_0",
+      "$vocal_separations_0"
+    ],
+    "group_id": "",
+    "hdr_settings": null,
+    "id": "$segment",
+    "intensifies_audio": false,
+    "is_loop": false,
+    "is_placeholder": false,
+    "is_tone_modify": false,
+    "keyframe_refs": [],
+    "last_nonzero_volume": 1.0,
+    "lyric_keyframes": null,
+    "material_id": "$video",
+    "raw_segment_id": "",
+    "render_index": 0,
+    "render_timerange": {
+      "duration": 0,
+      "start": 0
+    },
+    "responsive_layout": {
+      "enable": false,
+      "horizontal_pos_layout": 0,
+      "size_layout": 0,
+      "target_follow": "",
+      "vertical_pos_layout": 0
+    },
+    "reverse": false,
+    "segment_color_tag": "",
+    "source": "segmentsourcenormal",
+    "source_timerange": {
+      "start": 0,
+      "duration": 0
+    },
+    "speed": 1.0,
+    "state": 0,
+    "target_timerange": {
+      "start": 0,
+      "duration": 0
+    },
+    "template_id": "",
+    "template_scene": "default",
+    "track_attribute": 0,
+    "track_render_index": 0,
+    "uniform_scale": {
+      "on": true,
+      "value": 1.0
+    },
+    "visible": true,
+    "volume": 1.0
+  },
+  "video": {
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "aigc_type": "none",
+    "audio_fade": null,
+    "beauty_body_auto_preset": null,
+    "beauty_body_preset_id": "",
+    "beauty_face_auto_preset": {
+      "name": "",
+      "preset_id": "",
+      "rate_map": "",
+      "scene": ""
+    },
+    "beauty_face_auto_preset_infos": [],
+    "beauty_face_preset_infos": [],
+    "cartoon_path": "",
+    "category_id": "",
+    "category_name": "",
+    "check_flag": 62978047,
+    "content_feature_info": null,
+    "corner_pin": null,
+    "crop": {
+      "lower_left_x": 0.0,
+      "lower_left_y": 1.0,
+      "lower_right_x": 1.0,
+      "lower_right_y": 1.0,
+      "upper_left_x": 0.0,
+      "upper_left_y": 0.0,
+      "upper_right_x": 1.0,
+      "upper_right_y": 0.0
+    },
+    "crop_ratio": "free",
+    "crop_scale": 1.0,
+    "duration": 0,
+    "extra_type_option": 2,
+    "formula_id": "",
+    "freeze": null,
+    "has_audio": true,
+    "has_sound_separated": false,
+    "height": 0,
+    "id": "$video",
+    "intensifies_audio_path": "",
+    "intensifies_path": "",
+    "is_ai_generate_content": false,
+    "is_copyright": false,
+    "is_set_beauty_mode": false,
+    "is_text_edit_overdub": false,
+    "is_unified_beauty_mode": false,
+    "live_photo_cover_path": "",
+    "live_photo_timestamp": -1,
+    "local_id": "",
+    "local_material_from": "",
+    "local_material_id": "",
+    "material_id": "",
+    "material_name": "$name",
+    "material_url": "",
+    "matting": {
+      "cloud_product_fps": 0.0,
+      "custom_matting_id": "",
+      "enable_matting_stroke": false,
+      "expansion": 0,
+      "feather": 0,
+      "flag": 0,
+      "has_use_quick_brush": false,
+      "has_use_quick_eraser": false,
+      "interactiveTime": [],
+      "is_clould": false,
+      "mask_video_path": "",
+      "path": "",
+      "reverse": false,
+      "strokes": []
+    },
+    "media_path": "",
+    "multi_camera_info": null,
+    "object_locked": null,
+    "origin_material_id": "",
+    "path": "",
+    "picture_from": "none",
+    "picture_set_category_id": "",
+    "picture_set_category_name": "",
+    "pre_applied_vip_materials": [],
+    "request_id": "",
+    "reverse_intensifies_path": "",
+    "reverse_path": "",
+    "smart_match_info": null,
+    "smart_motion": null,
+    "source": 0,
+    "source_platform": 0,
+    "stable": {
+      "matrix_path": "",
+      "stable_level": 0,
+      "time_range": {
+        "duration": 0,
+        "start": 0
+      }
+    },
+    "surface_trackings": [],
+    "team_id": "",
+    "type": "video",
+    "unique_id": "",
+    "video_algorithm": {
+      "ai_background_configs": [],
+      "ai_expression_driven": null,
+      "ai_in_painting_config": [],
+      "ai_motion_driven": null,
+      "aigc_generate": null,
+      "aigc_generate_list": [],
+      "algorithms": [],
+      "complement_frame_config": null,
+      "deflicker": null,
+      "gameplay_configs": [],
+      "image_interpretation": null,
+      "motion_blur_config": null,
+      "mouth_shape_driver": null,
+      "noise_reduction": null,
+      "path": "",
+      "quality_enhance": null,
+      "skip_algorithm_index": [],
+      "smart_complement_frame": null,
+      "story_video_modify_video_config": {
+        "generate_card_id": "",
+        "generate_id": "",
+        "is_overwrite_last_video": false,
+        "task_id": "",
+        "tracker_task_id": ""
+      },
+      "super_resolution": null,
+      "time_range": null
+    },
+    "video_mask_shadow": {
+      "alpha": 0.0,
+      "angle": 0.0,
+      "blur": 0.0,
+      "color": "",
+      "distance": 0.0,
+      "path": "",
+      "resource_id": ""
+    },
+    "video_mask_stroke": {
+      "alpha": 0.0,
+      "color": "",
+      "distance": 0.0,
+      "horizontal_shift": 0.0,
+      "path": "",
+      "resource_id": "",
+      "size": 0.0,
+      "texture": 0.0,
+      "type": "",
+      "vertical_shift": 0.0
+    },
+    "width": 0,
+    "workflow_node_id": ""
+  },
+  "draft": {
+    "aimusic_mv_template_info": null,
+    "category_id": "",
+    "category_name": "",
+    "combination_id": "$combination",
+    "combination_type": "none",
+    "formula_id": "",
+    "id": "$draft",
+    "name": "",
+    "precompile_combination": false,
+    "type": "combination"
+  },
+  "materials": {
+    "canvases": [
+      {
+        "album_image": "",
+        "blur": 0.0,
+        "color": "",
+        "id": "$canvases_0",
+        "image": "",
+        "image_id": "",
+        "image_name": "",
+        "source_platform": 0,
+        "team_id": "",
+        "type": "canvas_color"
+      }
+    ],
+    "material_colors": [
+      {
+        "gradient_angle": 90.0,
+        "gradient_colors": [],
+        "gradient_percents": [],
+        "height": 0.0,
+        "id": "$material_colors_0",
+        "is_color_clip": false,
+        "is_gradient": false,
+        "solid_color": "",
+        "width": 0.0
+      }
+    ],
+    "placeholder_infos": [
+      {
+        "error_path": "",
+        "error_text": "",
+        "id": "$placeholder_infos_0",
+        "meta_type": "none",
+        "res_path": "",
+        "res_text": "",
+        "type": "placeholder_info"
+      }
+    ],
+    "sound_channel_mappings": [
+      {
+        "audio_channel_mapping": 0,
+        "id": "$sound_channel_mappings_0",
+        "is_config_open": false,
+        "type": ""
+      }
+    ],
+    "speeds": [
+      {
+        "curve_speed": null,
+        "id": "$speeds_0",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      }
+    ],
+    "vocal_separations": [
+      {
+        "choice": 0,
+        "enter_from": "",
+        "final_algorithm": "",
+        "id": "$vocal_separations_0",
+        "production_path": "",
+        "removed_sounds": [],
+        "time_range": null,
+        "type": "vocal_separation"
+      }
+    ]
+  }
+}

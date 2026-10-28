@@ -1,0 +1,19 @@
+MixCut
+Copyright 2026 MixCut contributors
+
+The original MixCut code is licensed under Apache-2.0.
+Bundled third-party code and metadata retain their original licenses.
+See THIRD_PARTY_NOTICES.md and VENDOR_MANIFEST.json for provenance.
+
+The vendored pyJianYingDraft SDK is based on GuanYixuan/pyJianYingDraft
+commit 1e228479dda361e312e85f6037002346cf6dca9a (Apache-2.0).
+MixCut modifies its __init__.py to support PYJIANYINGDRAFT_NO_UI=1.
+
+Music catalog metadata is from isYangs/jianying-editor-skill
+commit b7225641d39a9cd354ec265e2f6101b009fa1b44 (MIT).
+Copyright (c) 2026 luoluoluo22.
+The full notice is in assets/jianying/MUSIC_METADATA_LICENSE.txt.
+
+No music, user videos, platform effect binaries, API keys or account
+credentials are distributed by this repository. An open-source code
+license does not grant rights to third-party media or platform services.

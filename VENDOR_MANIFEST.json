@@ -1,0 +1,30 @@
+[
+  {
+    "name": "socai",
+    "repository": "https://github.com/socai-io/socai",
+    "commit": "778bdd1669a460c9beff80cd9faf8efb1bc5ef23",
+    "archive_sha256": "6c24dba3f07186fc57b2a836c501d180cac8d769f16b1229de1d432190ee2747",
+    "path": "vendor\\socai"
+  },
+  {
+    "name": "VideoMatrix",
+    "repository": "https://github.com/w2968066/VideoMatrix--",
+    "commit": "63741a5acdb7e6cb0160ffb61d853e98dbf937a7",
+    "archive_sha256": "0187c4726377b551ed296a44f0cbc6b6d4cd5202b417c94d74dfb23bb2ffd4e2",
+    "path": "vendor\\VideoMatrix"
+  },
+  {
+    "name": "FireRed-OpenStoryline",
+    "repository": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+    "commit": "c9e945215586f45c12a61c1951ee9a8e9c43a027",
+    "archive_sha256": "fb82026ffaf6b73a9038d684debb5a97d9652ee2200c0379b57db3e86edc438c",
+    "path": "vendor\\FireRed-OpenStoryline"
+  },
+  {
+    "name": "pyJianYingDraft",
+    "repository": "https://github.com/GuanYixuan/pyJianYingDraft",
+    "commit": "1e228479dda361e312e85f6037002346cf6dca9a",
+    "archive_sha256": "f5a5d24744888ac5e6b74427fb15a5851a5861e328f1a1c46577c8059c66e9b8",
+    "path": "vendor\\pyJianYingDraft"
+  }
+]

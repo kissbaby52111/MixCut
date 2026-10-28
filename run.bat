@@ -1,0 +1,8 @@
+@echo off
+chcp 65001 >nul
+cd /d "%~dp0"
+if not exist ".runtime\python.cmd" (
+  echo Please run setup.bat first.
+  exit /b 1
+)
+call ".runtime\python.cmd" %*

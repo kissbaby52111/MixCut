@@ -1,0 +1,57 @@
+# Machine state, credentials and user projects stay local.
+/.runtime/
+/.env
+/.env.*
+!/.env.example
+/config.json
+/workspace/
+/examples/
+**/.state/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.lnk
+*.pem
+*.key
+
+# Personal development notes and acceptance records contain local paths.
+/IMPLEMENTATION_NOTES.md
+/开源工具选型.md
+/文件夹拼接使用说明.md
+/验收报告.md
+/自动化流水线方案.md
+
+# Never publish user audio, video, drafts or library indexes.
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.flac
+*.ogg
+*.opus
+*.wma
+*.aiff
+*.beat
+*.exe
+*.dll
+*.zip
+*.whl
+*.partial
+/assets/local_music/*
+!/assets/local_music/README.md
+
+# Ship only the SDK used at runtime; other reference checkouts stay local.
+/vendor/*
+!/vendor/pyJianYingDraft/
+/vendor/pyJianYingDraft/*
+!/vendor/pyJianYingDraft/LICENSE
+!/vendor/pyJianYingDraft/README.md
+!/vendor/pyJianYingDraft/pyJianYingDraft/
+vendor/**/.git/
